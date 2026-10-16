@@ -39,8 +39,7 @@ CodeAlpha_CreditScoringModel/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-├── artifacts/
-│   └── credit_model.joblib
+├── credit_model.joblib
 ├── Reports/
 │   ├── roc_curves.png
 │   └── feature_importance.png
