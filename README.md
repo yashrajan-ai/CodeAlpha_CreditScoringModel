@@ -145,7 +145,6 @@ The local Streamlit URL will appear in your terminal.
 
 ## 🖥️ Application Screenshots
 
-Add screenshots of the actual running application here.
 
 **Home screen**
 
